@@ -10,3 +10,10 @@ The project is organized into the following folders:
 - **/js**: Contains the JavaScript files (currently empty).
 - **index.html**: The main HTML file of the website.
 - **README.md**: This file.
+# Clone the repository
+git clone https://github.com/bete73torres-ctrl/ecommerce-syntaxwear.git
+
+# Navigate to the project directory
+cd ecommerce-syntaxwear
+
+# Open index.html in your browser
